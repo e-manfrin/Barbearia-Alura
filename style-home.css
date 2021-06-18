@@ -45,3 +45,14 @@ ul {
 .imagembeneficios {
     width: 50%;
 }
+footer {
+    text-align: center;
+    background: url("img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+color: #FFFFFF;
+font-size: 13px;
+margin: 20 px 0 0;
+}
